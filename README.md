@@ -1,3 +1,5 @@
+# Temporary stop development since Square released similar functionality with OkHttp 2.0
+
 # Reactive HTTP
 
 Reactive HTTP is a lightweight REST HTTP library with Observable(RxJava) interface.
